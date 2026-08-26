@@ -1,0 +1,121 @@
+Campaign_ID,Campaign_Name,Channel,Objective,Start_Date,Budget,End_Date,Target_Audience
+CMP1018,Always-On Promo 19,Meta Ads,Lead Generation,2025-07-09,84765.97,2025-09-12,25-34
+CMP1045,Monsoon Promo 46,TikTok,Brand Awareness,2024-07-05,201851.99,2024-09-13,55+
+CMP1047,Always-On Retargeting 48,YouTube,Conversions,2024-03-27,74545.09,2024-04-24,35-44
+CMP1089,Always-On Awareness 90,LinkedIn,Lead Generation,2024-12-08,214875.41,2025-02-04,18-24
+CMP1004,Festive Acquisition 5,YouTube,Conversions,2024-10-04,216529.45,2024-10-18,55+
+CMP1040,Always-On Awareness 41,Meta Ads,Traffic,2024-08-02,47290.86,2024-08-22,55+
+CMP1062,Always-On Awareness 63,Google Ads,Traffic,2024-04-26,140975.99,2024-05-26,55+
+CMP1100,Monsoon Promo 101,YouTube,Brand Awareness,2024-02-25,85952.94,2024-05-02,45-54
+CMP1031,Monsoon Promo 32,Google Ads,Conversions,2025-03-23,62565.08,2025-04-21,35-44
+CMP1055,Festive Lead Gen 56,LinkedIn,Brand Awareness,2024-04-02,137818.47,2024-06-02,55+
+CMP1053,New Year Lead Gen 54,Instagram,Conversions,2024-06-19,149521.17,2024-09-16,25-34
+CMP1076,Always-On Retargeting 77,Email,Brand Awareness,2025-03-17,234989.95,2025-05-11,55+
+CMP1010,Diwali Retargeting 11,Meta Ads,Lead Generation,2025-07-13,127301.16,2025-10-10,25-34
+CMP1091,Monsoon Lead Gen 92,Instagram,Traffic,2024-09-06,43651.59,2024-11-12,25-34
+CMP1093,Summer Retargeting 94,Email,Conversions,2024-01-30,176232.65,2024-04-02,55+
+CMP1011,Festive Promo 12,LinkedIn,Brand Awareness,2025-06-04,112969,2025-08-18,35-44
+CMP1077,Monsoon Lead Gen 78,Email,Traffic,2025-06-09,117907.45,2025-08-22,18-24
+CMP1056,Diwali Awareness 57,Email,Traffic,2024-09-30,194522,2024-11-22,25-34
+CMP1116,Summer Lead Gen 117,Meta Ads,Traffic,2024-12-13,48610.14,2025-01-26,45-54
+CMP1000,Summer Lead Gen 1,Google Ads,Traffic,2024-06-21,198064.14,2024-07-27,18-24
+CMP1026,Monsoon Awareness 27,LinkedIn,Conversions,2024-11-14,204032.08,2025-01-30,45-54
+CMP1044,New Year Promo 45,LinkedIn,Lead Generation,2024-07-10,198916.66,2024-09-24,18-24
+CMP1066,Summer Awareness 67,Instagram,Traffic,2024-09-14,196965.53,2024-10-29,18-24
+CMP1108,Summer Acquisition 109,Meta Ads,Conversions,2025-05-17,40008.59,2025-08-11,25-34
+CMP1024,New Year Lead Gen 25,TikTok,Conversions,2024-06-13,214411.71,2024-08-31,35-44
+CMP1042,Diwali Lead Gen 43,YouTube,Lead Generation,2024-04-25,203207.78,2024-06-12,35-44
+CMP1118,Diwali Awareness 119,Google Ads,Brand Awareness,2025-01-11,61577.99,2025-04-09,35-44
+CMP1094,Festive Retargeting 95,LinkedIn,Brand Awareness,2024-01-05,17891.13,2024-02-22,18-24
+CMP1036,Monsoon Acquisition 37,LinkedIn,Conversions,2025-06-12,37347.5,2025-08-06,35-44
+CMP1090,Always-On Acquisition 91,LinkedIn,Traffic,2025-07-23,164712.36,2025-09-16,35-44
+CMP1012,New Year Lead Gen 13,Meta Ads,Lead Generation,2025-03-28,69653.94,2025-06-24,35-44
+CMP1015,Monsoon Retargeting 16,Meta Ads,Conversions,2024-09-04,91961.46,2024-11-22,25-34
+CMP1073,Summer Retargeting 74,Meta Ads,Conversions,2024-07-09,88893.4,2024-10-06,25-34
+CMP1022,Summer Promo 23,Instagram,Traffic,2025-07-31,92164.88,2025-08-23,35-44
+CMP1117,Monsoon Lead Gen 118,TikTok,Conversions,2025-04-12,197540.47,2025-06-13,18-24
+CMP1084,Monsoon Acquisition 85,TikTok,Brand Awareness,2025-06-17,103444.48,2025-07-20,45-54
+CMP1030,Always-On Lead Gen 31,Instagram,Brand Awareness,2025-08-19,187699.89,2025-10-07,25-34
+CMP1078,Summer Awareness 79,TikTok,Conversions,2025-04-20,105080.16,2025-05-23,35-44
+CMP1065,Diwali Awareness 66,Google Ads,Conversions,2024-02-02,113372.95,2024-04-10,18-24
+CMP1009,Always-On Awareness 10,Google Ads,Traffic,2024-12-29,47845.58,2025-02-27,18-24
+CMP1033,Always-On Retargeting 34,TikTok,Brand Awareness,2025-05-04,217268.98,2025-05-27,35-44
+CMP1025,New Year Acquisition 26,YouTube,Conversions,2024-09-29,168358.03,2024-12-05,45-54
+CMP1070,Always-On Retargeting 71,YouTube,Conversions,2025-04-26,194195.05,2025-07-08,35-44
+CMP1028,Diwali Acquisition 29,YouTube,Traffic,2024-06-10,163735.64,2024-07-28,25-34
+CMP1101,Monsoon Lead Gen 102,Instagram,Conversions,2025-05-15,230833.85,2025-06-29,45-54
+CMP1005,Diwali Promo 6,Google Ads,Brand Awareness,2024-05-19,123757.85,2024-06-02,35-44
+CMP1064,Diwali Lead Gen 65,LinkedIn,Lead Generation,2025-05-13,169597.87,2025-07-01,55+
+CMP1069,Monsoon Awareness 70,Google Ads,Brand Awareness,2025-02-12,226116.14,2025-03-05,25-34
+CMP1039,Diwali Lead Gen 40,Google Ads,Lead Generation,2024-12-22,234945.86,2025-02-22,35-44
+CMP1049,Diwali Acquisition 50,LinkedIn,Conversions,2025-07-06,37336.56,2025-08-09,35-44
+CMP1035,New Year Acquisition 36,LinkedIn,Traffic,2024-03-04,159379.24,2024-04-25,45-54
+CMP1016,Summer Awareness 17,YouTube,Brand Awareness,2024-03-12,104174.06,2024-04-13,18-24
+CMP1067,New Year Retargeting 68,LinkedIn,Traffic,2024-12-20,172739.38,2025-01-16,25-34
+CMP1034,Summer Awareness 35,Instagram,Brand Awareness,2025-07-29,46044.17,2025-10-04,35-44
+CMP1080,Always-On Lead Gen 81,Instagram,Traffic,2024-11-17,144953.37,2025-02-06,45-54
+CMP1007,New Year Lead Gen 8,Instagram,Lead Generation,2024-11-14,165297.37,2024-12-01,25-34
+CMP1043,Summer Retargeting 44,LinkedIn,Traffic,2025-05-09,154515.27,2025-06-03,55+
+CMP1110,Summer Awareness 111,LinkedIn,Brand Awareness,2025-04-25,171435.91,2025-05-16,45-54
+CMP1068,Diwali Acquisition 69,Instagram,Conversions,2024-11-05,93404.87,2024-12-17,35-44
+CMP1081,Monsoon Awareness 82,Google Ads,Lead Generation,2024-01-27,234992.9,2024-03-25,55+
+CMP1027,Monsoon Acquisition 28,Instagram,Traffic,2024-05-28,140189.73,2024-08-14,25-34
+CMP1019,Festive Lead Gen 20,YouTube,Lead Generation,2024-09-12,237981.61,2024-11-26,35-44
+CMP1098,Monsoon Acquisition 99,Meta Ads,Traffic,2025-06-20,122758.8,2025-08-08,35-44
+CMP1107,New Year Retargeting 108,TikTok,Brand Awareness,2024-02-29,211670.7,2024-03-24,45-54
+CMP1008,Diwali Acquisition 9,Email,Conversions,2025-04-04,77618.88,2025-06-20,55+
+CMP1013,Monsoon Promo 14,Instagram,Lead Generation,2024-12-27,101365.28,2025-01-28,35-44
+CMP1112,New Year Retargeting 113,Instagram,Lead Generation,2024-05-23,36253.57,2024-07-23,45-54
+CMP1003,Summer Lead Gen 4,YouTube,Traffic,2025-04-23,135842.37,2025-05-09,25-34
+CMP1017,Always-On Acquisition 18,Google Ads,Conversions,2024-08-12,176149.69,2024-08-30,35-44
+CMP1038,Festive Retargeting 39,Google Ads,Lead Generation,2024-10-12,34855.91,2024-12-07,35-44
+CMP1072,Always-On Promo 73,Google Ads,Traffic,2025-05-11,100585.12,2025-06-22,45-54
+CMP1095,New Year Lead Gen 96,Email,Brand Awareness,2024-08-12,121764.72,2024-11-06,55+
+CMP1006,New Year Lead Gen 7,Email,Lead Generation,2024-07-19,105496.03,2024-08-14,45-54
+CMP1085,Summer Acquisition 86,Meta Ads,Brand Awareness,2024-05-22,246858.41,2024-08-16,18-24
+CMP1105,Festive Lead Gen 106,Meta Ads,Traffic,2025-07-08,221612.01,2025-07-31,25-34
+CMP1097,Always-On Acquisition 98,Instagram,Brand Awareness,2024-11-10,84409.37,2024-12-05,45-54
+CMP1054,Monsoon Lead Gen 55,LinkedIn,Conversions,2024-12-12,124506.51,2025-02-21,35-44
+CMP1050,New Year Acquisition 51,Email,Conversions,2024-12-25,159798.94,2025-01-15,25-34
+CMP1113,New Year Awareness 114,LinkedIn,Lead Generation,2025-08-10,225802.85,2025-09-25,35-44
+CMP1046,Always-On Retargeting 47,Meta Ads,Lead Generation,2025-07-08,237316.36,2025-07-26,55+
+CMP1083,Festive Acquisition 84,TikTok,Lead Generation,2024-04-18,127651.85,2024-05-13,25-34
+CMP1061,Diwali Awareness 62,Email,Brand Awareness,2024-02-03,43137.39,2024-02-20,18-24
+CMP1119,Festive Lead Gen 120,Email,Conversions,2025-01-20,228999.98,2025-03-06,55+
+CMP1079,Diwali Lead Gen 80,Email,Lead Generation,2025-05-25,186476.14,2025-07-27,55+
+CMP1096,Diwali Retargeting 97,TikTok,Conversions,2025-07-09,208968.89,2025-08-04,35-44
+CMP1041,Summer Promo 42,LinkedIn,Traffic,2024-03-28,240336.86,2024-06-15,45-54
+CMP1058,Summer Acquisition 59,Meta Ads,Lead Generation,2024-11-20,130656.01,2024-12-09,18-24
+CMP1048,Festive Lead Gen 49,LinkedIn,Traffic,2025-07-03,153667.84,2025-07-18,45-54
+CMP1088,New Year Acquisition 89,Google Ads,Brand Awareness,2025-01-20,42842.47,2025-03-07,45-54
+CMP1104,Festive Lead Gen 105,TikTok,Conversions,2024-08-30,249303.14,2024-09-22,45-54
+CMP1057,Diwali Awareness 58,LinkedIn,Conversions,2024-03-10,202822.51,2024-03-28,35-44
+CMP1075,Always-On Retargeting 76,YouTube,Conversions,2024-10-29,49729.09,2024-12-17,45-54
+CMP1032,Monsoon Retargeting 33,Meta Ads,Lead Generation,2025-05-19,178277.56,2025-06-10,18-24
+CMP1115,Monsoon Promo 116,TikTok,Traffic,2025-04-26,71594.59,2025-06-26,18-24
+CMP1059,Festive Acquisition 60,Google Ads,Brand Awareness,2024-01-13,155904.46,2024-03-14,18-24
+CMP1063,Summer Lead Gen 64,TikTok,Brand Awareness,2024-04-14,35611.62,2024-07-05,55+
+CMP1114,Diwali Acquisition 115,TikTok,Brand Awareness,2024-07-11,21814.88,2024-09-23,35-44
+CMP1037,New Year Awareness 38,Email,Conversions,2024-02-09,185543.17,2024-04-20,25-34
+CMP1029,New Year Lead Gen 30,YouTube,Conversions,2024-05-21,82716.57,2024-06-07,45-54
+CMP1109,Monsoon Promo 110,Meta Ads,Traffic,2025-05-21,249789.61,2025-06-25,18-24
+CMP1001,Diwali Awareness 2,YouTube,Traffic,2025-05-12,46619.77,2025-07-15,35-44
+CMP1052,New Year Lead Gen 53,TikTok,Lead Generation,2024-04-03,147763.39,2024-05-27,25-34
+CMP1021,New Year Retargeting 22,Meta Ads,Traffic,2025-01-26,128013.95,2025-04-21,45-54
+CMP1002,Monsoon Promo 3,Google Ads,Conversions,2024-05-30,140975.99,2024-08-22,55+
+CMP1023,Monsoon Promo 24,TikTok,Conversions,2025-06-04,140827.18,2025-08-16,45-54
+CMP1103,New Year Promo 104,LinkedIn,Lead Generation,2024-02-01,40988.28,2024-03-22,45-54
+CMP1099,Monsoon Promo 100,TikTok,Conversions,2024-03-02,118943.82,2024-04-24,25-34
+CMP1087,New Year Awareness 88,Google Ads,Traffic,2024-05-29,238530.75,2024-07-05,45-54
+CMP1111,New Year Retargeting 112,Google Ads,Traffic,2025-06-25,167779.38,2025-08-01,25-34
+CMP1074,New Year Acquisition 75,Meta Ads,Lead Generation,2025-08-13,52038.74,2025-10-11,18-24
+CMP1086,New Year Lead Gen 87,Meta Ads,Lead Generation,2024-05-16,183673.66,2024-07-10,25-34
+CMP1082,Monsoon Promo 83,YouTube,Conversions,2024-10-22,198370.85,2024-12-09,35-44
+CMP1020,Summer Lead Gen 21,Email,Conversions,2024-03-09,230341.78,2024-06-05,35-44
+CMP1060,Monsoon Lead Gen 61,Instagram,Traffic,2025-03-01,233840.52,2025-03-15,18-24
+CMP1071,Festive Awareness 72,YouTube,Brand Awareness,2024-08-24,78575.71,2024-09-21,18-24
+CMP1106,New Year Awareness 107,TikTok,Conversions,2025-02-17,81718.48,2025-05-16,55+
+CMP1014,Diwali Awareness 15,YouTube,Traffic,2024-06-22,101102.23,2024-07-28,18-24
+CMP1092,Monsoon Awareness 93,Instagram,Lead Generation,2024-06-18,153240.63,2024-07-21,35-44
+CMP1051,New Year Acquisition 52,Meta Ads,Conversions,2024-04-09,55253.46,2024-06-16,45-54
+CMP1102,Monsoon Retargeting 103,YouTube,Brand Awareness,2024-03-05,198604.1,2024-05-28,18-24
